@@ -1,7 +1,12 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Nathan Schoenfeld
+
+_My name is Nathan_ and I am **22** years old. I like to play soccer.
+
+![I like soccer](https://th.bing.com/th?id=OIP.REoDTUVLn1OcWkNEahHC8AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
 
 ## Class Resources
 
